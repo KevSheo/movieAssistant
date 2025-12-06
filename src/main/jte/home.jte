@@ -117,7 +117,6 @@
             <a href="/theater-navigator" class="btn btn-outline-primary btn-lg me-2 mb-2">
                 <i class="bi bi-geo-alt"></i> Theater Navigator
             </a>
-
             <a href="/logout" class="btn btn-outline-dark btn-lg mb-2">
                 <i class="bi bi-box-arrow-right"></i> Logout
             </a>
